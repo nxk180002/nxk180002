@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Nikhil Kulkarni (@nxk180002)
+- 👀 I’m interested in Medical Device Development, and Front-End Mobile-App/Web Development
+- 🌱 I’m currently studying to receive a Bachelor's and Master's in Biomedical Engineering
+- 💞️ I’m looking to get an internship in Biomedical Engineering or CS
+- 📫 How to reach me: kulkarni.nikhil89@gmail.com
